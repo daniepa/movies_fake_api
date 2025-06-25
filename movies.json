@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "img_url": "https://compass-media.vogue.it/photos/5ceea87e22ff91e2b787e940/1:1/w_775,h_775,c_limit/john-wick-3-parabellum_14_jpg_1400x0_q85.jpg",
+    "title": "John Wick 3 - Parabellum",
+    "directed_by": "Chad Stahelski",
+    "year": 2019,
+    "duration": 131,
+    "genres": ["azione", "thriller"],
+    "short_description": "In fuga dopo aver ucciso un membro della Tavola Alta, John Wick combatte per la sopravvivenza mentre tutti i killer del mondo gli danno la caccia."
+  },
+  {
+    "id": 2,
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+    "title": "Inception",
+    "directed_by": "Christopher Nolan",
+    "year": 2010,
+    "duration": 148,
+    "genres": ["azione", "thriller", "fantascienza"],
+    "short_description": "Un ladro specializzato nell'estrazione di segreti dal subconscio viene incaricato di compiere l'impresa opposta: impiantare un'idea nella mente di un bersaglio."
+  },
+  {
+    "id": 3,
+    "img_url": "https://images.wall-art.de/format:webp/q:92/rs:fit:780:/_img/out/pictures/master/product/1/133033.jpg",
+    "title": "The Batman",
+    "directed_by": "Matt Reeves",
+    "year": 2022,
+    "duration": 176,
+    "genres": ["azione", "thriller", "drammatico"],
+    "short_description": "Nel secondo anno della sua lotta al crimine, Batman indaga su una serie di omicidi che lo portano a confrontarsi con la corruzione di Gotham e il misterioso Enigmista."
+  }
+]
