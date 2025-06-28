@@ -28,5 +28,45 @@
     "duration": 176,
     "genres": ["azione", "thriller", "drammatico"],
     "short_description": "Nel secondo anno della sua lotta al crimine, Batman indaga su una serie di omicidi che lo portano a confrontarsi con la corruzione di Gotham e il misterioso Enigmista."
+  },
+  {
+    "id": 4,
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/b/bc/The_Dark_Knight_poster.jpg",
+    "title": "Il Cavaliere Oscuro",
+    "directed_by": "Christopher Nolan",
+    "year": 2008,
+    "duration": 152,
+    "genres": ["azione", "thriller", "drammatico"],
+    "short_description": "Batman affronta il Joker, un criminale anarchico che getta Gotham nel caos e mette alla prova i limiti morali dell'eroe."
+  },
+  {
+    "id": 5,
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Mad_Max_Fury_Road.jpg",
+    "title": "Mad Max: Fury Road",
+    "directed_by": "George Miller",
+    "year": 2015,
+    "duration": 120,
+    "genres": ["azione", "fantascienza", "thriller"],
+    "short_description": "In un mondo post-apocalittico, Max e Furiosa uniscono le forze per sfuggire al tiranno Immortan Joe in un inseguimento ad alta velocità."
+  },
+  {
+    "id": 6,
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/8/8a/Sicario_poster.jpg",
+    "title": "Sicario",
+    "directed_by": "Denis Villeneuve",
+    "year": 2015,
+    "duration": 121,
+    "genres": ["azione", "thriller", "drammatico"],
+    "short_description": "Una giovane agente dell'FBI viene reclutata per una task force segreta impegnata nella lotta contro i cartelli della droga alla frontiera tra USA e Messico."
+  },
+  {
+    "id": 7,
+    "img_url": "https://upload.wikimedia.org/wikipedia/en/f/fb/Tenet_movie_poster.jpg",
+    "title": "Tenet",
+    "directed_by": "Christopher Nolan",
+    "year": 2020,
+    "duration": 150,
+    "genres": ["azione", "thriller", "fantascienza"],
+    "short_description": "Un agente segreto deve manipolare il flusso del tempo per prevenire la Terza Guerra Mondiale in una missione che sfida la logica temporale."
   }
 ]
